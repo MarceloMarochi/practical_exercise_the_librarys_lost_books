@@ -7,7 +7,7 @@
 npm i
 ```
 
-2. Rename the file 'env.template' for '.env' and complete the environment variables.
+2. Rename the file 'env.template' for '.env' and complete the environment variables. (The variables are completed with data from a previously created database.)
 
 3. Sync the database
 ```
